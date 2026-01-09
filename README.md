@@ -1,4 +1,4 @@
-# BML101_24360859058_SumeyyeSimsek
+# 24360859058-SumeyyeSimsek-BML101
 BLM101 Bilgisayar Mühendisliğine Giriş - Dönem Projesi (4. Grup: Brookshear Makine Dili)
 
 # BLM101 Dönem Projesi: Brookshear Makine Dili Yorumlayıcısı (4. Grup)
