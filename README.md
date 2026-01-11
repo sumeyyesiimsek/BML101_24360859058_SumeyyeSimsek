@@ -9,7 +9,7 @@ BLM101 Bilgisayar Mühendisliğine Giriş - Dönem Projesi (4. Grup: Brookshear 
 
 ##  Proje Sunum Videosu
 Projemi anlattığım ve kodun çalışmasını gösterdiğim videoya aşağıdaki linkten ulaşabilirsiniz:
-**[...]**
+**[https://youtu.be/gl2fpbSs8C8]**
 
 
 
